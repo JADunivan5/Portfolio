@@ -8,3 +8,5 @@
 ## What part of the class surprised or interested you the most? Explain why.
 - I would say the amount breakdowns and help there is available for coding questions.
   - Why? I have found that when I don't know something is it great to be able to put in the R console "?command" and it pops up how its used, the package it comes from, etc... It has also been extremely helpful the number of pages that packages provide when you google them on how the command can be used, giving examples and code to see if it is the type of output you are looking to have. Coming from using SAS where it was like a needle in a haystack to find useful information sometimes this have been a breathe of fresh air.
+## Give one piece of advice to a student just beginning a semester of STA 418/518 that will help them be successful in learning.
+- If I had to give one piece of advice it would be do not be afraid to ask for help, there are so many things that are difficult and complex when it comes to coding, and without asking for help I would have never got there.
