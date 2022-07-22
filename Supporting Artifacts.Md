@@ -7,3 +7,5 @@
 - This is the Denny's activity referenced in Essay Question One, more specifically the usage of mutate and other small functions.
 ## [Activity 9](https://github.com/JADunivan5/activity09-functions-intro/blob/main/activity09-functions-intro.md)
 - This is was is known as last week's activity in Essay Question One.
+## [Activity 11](https://github.com/JADunivan5/activity11-simulation/blob/main/activity11-simulation.Rmd)
+- Specifically referencing lines 130-144.
