@@ -11,3 +11,5 @@
 - Specifically referencing lines 130-144.
 ## [Modern Dive](https://moderndive.com/7-sampling.html)
 - Specifically Chapter 7 on Bootstrapping.
+## Images
+- These will be located in the main repository.
